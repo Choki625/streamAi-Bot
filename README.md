@@ -26,8 +26,8 @@ Mine Data, Fuel AI, Earn Rewards Join the Stream AI Revolution
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Zlkcyber/streamAi.git
-   cd streamAi
+   git clone https://github.com/Choki625/streamAi-Bot.git
+   cd streamAi-Bot
    ```
 2. Install dependencies:
    ```bash
