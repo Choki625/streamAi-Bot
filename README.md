@@ -2,7 +2,7 @@
 Mine Data, Fuel AI, Earn Rewards Join the Stream AI Revolution
 ![alt text](image-2.png)
 
-- Website [https://app.allstream.ai/](https://app.allstream.ai/index?referralCode=FlGQxaTO)
+- Website [https://app.allstream.ai/]([https://app.allstream.ai/index?referralCode=FlGQxaTO](https://app.allstream.ai/index?referralCode=DPuKMawb))
 - Twitter/X [@allstream_ai](https://x.com/allstream_ai)
 
 ## Features
